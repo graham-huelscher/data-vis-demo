@@ -27,7 +27,7 @@ let greaterThan25Count = greaterThan25.length
 
 const graphData = {
   title: "Estimated to Real Time Trip Difference",
-  labels: ["Greater than 10 mins ", "Greater than 20 mins", "Greater than 25 mins"], 
+  labels: ["Greater than 10 mins ", "Greater than 20 mins", "Greater than 25 mins"],
   values: [greaterThan10Count, greaterThan20Count, greaterThan25Count]
 }
 
